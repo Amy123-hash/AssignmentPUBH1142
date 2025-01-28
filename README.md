@@ -1,1 +1,3 @@
-# Project-1
+# PUBH1142SPRING25
+
+This is the Github repsitory of Jay Klopper for the corse PUBH 1141 at the George Washington University 
